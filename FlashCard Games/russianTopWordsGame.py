@@ -66,7 +66,6 @@ while user_input != 'quit':
         print('All correct answers: ' + ', '.join(words_dict[word]))
 
       print()
-
     else:
       print('Incorrect.')\
 
